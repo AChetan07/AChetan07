@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm a Computer Science student at AMC Engineering College. This GitHub is where I share open-source projects and code from what I’m learning and building. Currently exploring web development and diving into React.<br><br>For any queries related to my projects, feel free to reach out at:<br>achetan736@gmail.com
+I'm a Computer Science student at AMC Engineering College. This GitHub is where I share open-source projects and code from what I’m learning and building. Currently exploring web development and diving into React meanwhile working on dsa as well.<br><br>For any queries related to my projects, feel free to reach out at:<br>achetan736@gmail.com
 
 
 ## 🌐 Socials:
